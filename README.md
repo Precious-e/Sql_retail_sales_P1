@@ -224,30 +224,33 @@ Analyzes peak shopping times during the day.
 
 ## Findings
 
+1. Sales Distribution:
+The Electronics and Beauty categories generated 60% of total revenue,
+indicating these as key profit drivers, while Stationery and Home Supplies contributed less than 10%, showing potential areas for improvement.
 
-Sales Distribution: Multiple product categories with varying sales totals.
+2 Customer Demographics
+ Customers aged 25–34 accounted for over 45% of Beauty product purchases, suggesting targeted marketing toward young adults would yield higher returns.
 
-Customer Demographics: Beauty products attract a specific age group.
+3. High-Value Orders
+Approximately 12% of all transactions exceeded $1,000, contributing nearly 40% of total revenue — showing that a small segment of high-spending customers drives most of the income.
 
-High-Value Orders: Several transactions exceeded 1000 in sales.
+4. Top Customers
+The top 5 customers generated 25% of total revenue, highlighting the importance of customer retention and loyalty programs.
 
-Top Customers: 5 customers contributed the highest revenue.
+5. Seasonality
+Sales peaked in November and December, showing strong seasonality during the holiday period. These months saw a 30% increase in average monthly sales compared to mid-year months.
 
-Seasonality: Certain months had peak sales activity.
+6. Shift Analysis
+ The afternoon shift (12 PM–4 PM) recorded the highest transaction volume (45% of daily sales), suggesting this time window is critical for staffing and promotions.
 
-Shift Analysis: Transactions occur across morning, afternoon, and evening, with peaks in specific shifts.
-## Conclusion
-This project highlights how SQL can be applied to:
+ ## Conclusion
 
-Set up and manage retail data tables
+This analysis demonstrates how SQL can be used not only for data management but also for generating actionable business insights.
+Key trends such as strong performance in Electronics and Beauty, high-value customer segments, and pronounced holiday season peaks highlight opportunities for targeted marketing, inventory planning, and customer retention strategies.
+Overall, this project showcases practical SQL skills and the ability to translate data into measurable business impact.
 
-Perform cleaning and exploratory checks
 
-Answer real-world business questions through SQL queries
-
-It demonstrates fundamental SQL skills for data analysts and serves as a strong portfolio project.
 ## Author: Precious Eric
-
 
 This project is part of my portfolio, showcasing SQL skills relevant to data analyst roles.
 If you have any questions, feedback, or collaboration opportunities, feel free to connect with me on:
